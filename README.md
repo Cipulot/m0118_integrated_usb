@@ -2,12 +2,14 @@
 
 Drop-in replacement USB-C PCB for the Apple M0118 powered by QMK and VIAL.
 
+![KLE](Assets/KLE.jpg)
+
 ![Top PCB](Assets/top.jpg)
 
 ![Bottom PCB](Assets/bottom.jpg)
 
 ## Daughterboard
-The board comes with a snappable daughterboard with onboard USB-C. To avoid extra costs no connector is used. Istead the user will solder wires accordingly to the pin correspondence (marked on the PCB).
+The board comes with a snappable daughterboard with onboard USB-C. To avoid extra costs no connector is used. Instead the user will solder wires accordingly to the pin correspondence (marked on the PCB).
 
 ![USBC bottom PCB](Assets/USBC_bottom.jpg)
 
