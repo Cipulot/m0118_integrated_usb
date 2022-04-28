@@ -23,3 +23,7 @@ An extra pin is provided, the `Shiled` pin. This is electrically connected to th
 ![Bottom Holes](Assets/bottom_holes.jpg)
 
 ### hahahahaha funny QR
+
+## Firmware
+
+Firmware is in development. Keep an eye out on the commits for it.
