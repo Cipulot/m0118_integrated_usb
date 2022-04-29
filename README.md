@@ -26,4 +26,6 @@ An extra pin is provided, the `Shiled` pin. This is electrically connected to th
 
 ## Firmware
 
-Firmware is in development. Keep an eye out on the commits for it.
+~~Firmware is in development. Keep an eye out on the commits for it.~~
+
+Firmware is OUT!! Precompiled VIAL `.hex` file downloadable [here](https://github.com/Cipulot/m0118_integrated_usb/blob/main/Firmware/HEX/m0118_integrated_usb_vial.hex).
